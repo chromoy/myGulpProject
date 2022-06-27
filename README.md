@@ -19,11 +19,19 @@
 [gulp](https://www.npmjs.com/package/gulp)   
 Сборщик Gulp  
 [gulp-less](https://www.npmjs.com/package/gulp-less)   
-Компиляция Less файлов  
+Компиляция Less файлов
+[gulp-sass](https://www.npmjs.com/package/gulp-sass)
+Компиляция Sass файлов
+[gulp-stylus](https://www.npmjs.com/package/gulp-stylus)
+Компиляция Stylus файлов  
 [gulp-babel](https://www.npmjs.com/package/gulp-babel)  
 Преобразует JavaScript в старый стандарт  
 [gulp-concat](https://www.npmjs.com/package/gulp-concat)  
-Объединение нескольких файлов в один  
+Объединение нескольких файлов в один
+[gulp-imagemin](https://www.npmjs.com/package/gulp-imagemin)
+Сжимает image файлы
+[browser-sync](https://www.npmjs.com/package/browser-sync)
+Обновление браузера в реальном времени   
 [gulp-uglify](https://www.npmjs.com/package/gulp-uglify)  
 Сжатие и оптимизация JavaScript кода  
 [gulp-rename](https://www.npmjs.com/package/gulp-rename)  
