@@ -2,7 +2,7 @@
 С помощью этих файлов вы сможете быстро настроить сборку вашего проекта на Gulp.
 
 ## Структура каталогов для размещения файлов стилей и скриптов:
->./src/styles/\*\*/\*.less
+>./src/styles/\*\*/\*.less  
 >./src/scripts/\*\*/\*.js
 
 ## Инструкция:
@@ -16,8 +16,8 @@
 ...
 
 ## Установленные  NPM пакеты
-[gulp](https://www.npmjs.com/package/gulp) 
-Сборщик Gulp
+[gulp](https://www.npmjs.com/package/gulp)   
+Сборщик Gulp  
 [gulp-less](https://www.npmjs.com/package/gulp-less) 
 Компиляция Less файлов
 [gulp-babel](https://www.npmjs.com/package/gulp-babel)
